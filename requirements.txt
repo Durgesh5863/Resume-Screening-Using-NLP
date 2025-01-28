@@ -1,0 +1,15 @@
+PyPDF2
+Django
+docx2txt
+io
+joblib
+matplotlib
+nltk
+numpy
+pandas
+pickle
+seaborn
+shutil
+sklearn
+textract
+wordcloud
